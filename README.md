@@ -10,7 +10,9 @@ Projeto desenvolvido para estudos utilizando Cypress
 
 ## Funcionalidades
 
-- [x] Implementando...
+- [x] Preenchimento dos campos
+- [x] Validação dos campos
+- [x] Screenshot para validação visual
 
 ## Tecnologias
 
@@ -18,7 +20,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [x] Cypress
 - [x] Javascript
-- [x] Mochajs
+- [x] MochaJs
 - [x] ChaiJs
 
 ## Instalação e uso
