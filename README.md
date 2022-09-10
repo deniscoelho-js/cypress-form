@@ -1,7 +1,7 @@
 # Cypress Todo
 
 <h1 align="center">
-    <img alt="Layout Website" src="./cypress/images/cypress.png" width="100%" />
+    <img alt="Layout Website" src="./public/images/img-readme.png" width="100%" />
 </h1>
 
 ## Projeto
@@ -26,7 +26,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Clone o repositório
 
 ```bash
-git clone https://github.com/deniscoelho-js/cypress-todo.git
+git clone https://github.com/deniscoelho-js/cypress-form.git
 
 ```
 
